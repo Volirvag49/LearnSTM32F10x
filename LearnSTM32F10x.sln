@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnSTM32F10x", "LearnSTM32F10x\LearnSTM32F10x.vcxproj", "{B47B0334-6949-4BA6-AE27-C9155EDED6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47B0334-6949-4BA6-AE27-C9155EDED6CA}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{B47B0334-6949-4BA6-AE27-C9155EDED6CA}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{B47B0334-6949-4BA6-AE27-C9155EDED6CA}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{B47B0334-6949-4BA6-AE27-C9155EDED6CA}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D55FD4-BA30-457C-9181-2C04FCB8819D}
+	EndGlobalSection
+EndGlobal
